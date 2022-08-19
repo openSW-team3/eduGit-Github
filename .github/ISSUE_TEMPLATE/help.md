@@ -1,6 +1,6 @@
 ---
 name: HELP
-about: 코드 구조 재조정
+about: 도움 요청
 title: "[HELP]"
 labels: "\U0001F4E2 HELP"
 assignees: ""
