@@ -1,32 +1,18 @@
-import {fundamentalsCollection} from "./data/fundamentals.js";
-import {webcomponentsCollection} from "./data/web-components.js";
-import {accessibilityCollection} from "./data/accessibility.js";
-import {pwaCollection} from "./data/pwa.js";
-import {architectureCollection} from "./data/architecture-and-paradigmes.js";
-import {buildtoolsCollection} from "./data/build-tools.js";
-import {testingCollection} from "./data/testing.js";
-import {frameworksAndLibrariesCollection} from "./data/frameworks-and-libraries.js";
-import {modernCollection} from "./data/modern.js";
-import {teamCollaborationCollection} from "./data/team-collaboration.js";
-import {algorithmsCollection} from "./data/algorithms.js";
-import {designAndUXCollection} from "./data/design-and-ux.js";
-import {databasesCollection} from "./data/databases.js";
+import { block_1_Collection } from "./data/block_1_Collection.js";
+import { block_2_Collection } from "./data/block_2_Collection.js";
+import { block_3_Collection } from "./data/block_3_Collection.js";
+import { block_4_Collection } from "./data/block_4_Collection.js";
+import { block_5_Collection } from "./data/block_5_Collection.js";
+import { block_6_Collection } from "./data/block_6_Collection.js";
 
 /**
  * All available collections.
  */
 export const collections = [
-	fundamentalsCollection,
-	accessibilityCollection,
-	webcomponentsCollection,
-	pwaCollection,
-	buildtoolsCollection,
-	frameworksAndLibrariesCollection,
-	testingCollection,
-	architectureCollection,
-	teamCollaborationCollection,
-	designAndUXCollection,
-	modernCollection,
-	algorithmsCollection,
-	databasesCollection,
+  block_1_Collection,
+  block_2_Collection,
+  block_3_Collection,
+  block_4_Collection,
+  block_5_Collection,
+  block_6_Collection,
 ];
