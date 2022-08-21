@@ -357,6 +357,7 @@ export class Skill extends LitElement {
             draggable="false"
             width="70px"
             height="70px"
+            style="border-radius: 15px"
             intrinsicsize="70x70"
             alt="${name}"
             role="presentation"
