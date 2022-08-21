@@ -5,7 +5,7 @@ export const block_2_Collection = {
     {
       skills: [
         {
-          name: "git init",
+          name: "git add",
           description: {
             text: "Learn what accessibility is and why it is important.",
             links: [
@@ -40,8 +40,105 @@ export const block_2_Collection = {
             ],
           },
         },
+
         {
-          name: "git clone",
+          name: "git status",
+          description: {
+            text: "Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.",
+            links: [
+              [
+                "The A11Y Project - Screen Reader Myths",
+                "https://a11yproject.com/posts/people-who-use-screen-readers-dont-use-javascript/",
+              ],
+              [
+                "The A11Y Project - NVDA Screen Reader",
+                "https://a11yproject.com/posts/getting-started-with-nvda/",
+              ],
+              [
+                "The A11Y Project - OS X Voiceover",
+                "https://a11yproject.com/posts/getting-started-with-voiceover/",
+              ],
+              [
+                "Webaim - Screen Reader Survey",
+                "https://webaim.org/projects/screenreadersurvey7/",
+              ],
+            ],
+          },
+        },
+        {
+          name: "git diff",
+          description: {
+            text: "Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.",
+            links: [
+              [
+                "The A11Y Project - Screen Reader Myths",
+                "https://a11yproject.com/posts/people-who-use-screen-readers-dont-use-javascript/",
+              ],
+              [
+                "The A11Y Project - NVDA Screen Reader",
+                "https://a11yproject.com/posts/getting-started-with-nvda/",
+              ],
+              [
+                "The A11Y Project - OS X Voiceover",
+                "https://a11yproject.com/posts/getting-started-with-voiceover/",
+              ],
+              [
+                "Webaim - Screen Reader Survey",
+                "https://webaim.org/projects/screenreadersurvey7/",
+              ],
+            ],
+          },
+        },
+        {
+          name: "git commit",
+          description: {
+            text: "Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.",
+            links: [
+              [
+                "The A11Y Project - Screen Reader Myths",
+                "https://a11yproject.com/posts/people-who-use-screen-readers-dont-use-javascript/",
+              ],
+              [
+                "The A11Y Project - NVDA Screen Reader",
+                "https://a11yproject.com/posts/getting-started-with-nvda/",
+              ],
+              [
+                "The A11Y Project - OS X Voiceover",
+                "https://a11yproject.com/posts/getting-started-with-voiceover/",
+              ],
+              [
+                "Webaim - Screen Reader Survey",
+                "https://webaim.org/projects/screenreadersurvey7/",
+              ],
+            ],
+          },
+        },
+        {
+          name: "git reset",
+          description: {
+            text: "Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.",
+            links: [
+              [
+                "The A11Y Project - Screen Reader Myths",
+                "https://a11yproject.com/posts/people-who-use-screen-readers-dont-use-javascript/",
+              ],
+              [
+                "The A11Y Project - NVDA Screen Reader",
+                "https://a11yproject.com/posts/getting-started-with-nvda/",
+              ],
+              [
+                "The A11Y Project - OS X Voiceover",
+                "https://a11yproject.com/posts/getting-started-with-voiceover/",
+              ],
+              [
+                "Webaim - Screen Reader Survey",
+                "https://webaim.org/projects/screenreadersurvey7/",
+              ],
+            ],
+          },
+        },
+        {
+          name: "git clean",
           description: {
             text: "Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.",
             links: [
