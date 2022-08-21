@@ -5,7 +5,7 @@ export const block_3_Collection = {
     {
       skills: [
         {
-          name: "git init",
+          name: "git branch",
           description: {
             text: "Learn what accessibility is and why it is important.",
             links: [
@@ -41,7 +41,7 @@ export const block_3_Collection = {
           },
         },
         {
-          name: "git clone",
+          name: "git merge",
           description: {
             text: "Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.",
             links: [
