@@ -5,7 +5,7 @@ export const block_4_Collection = {
     {
       skills: [
         {
-          name: "git init",
+          name: "git log",
           description: {
             text: "Learn what accessibility is and why it is important.",
             links: [
@@ -36,30 +36,6 @@ export const block_4_Collection = {
               [
                 "Youtube - Headings, Landmarks, and Tabs",
                 "https://www.youtube.com/watch?v=HE2R86EZPMA",
-              ],
-            ],
-          },
-        },
-        {
-          name: "git clone",
-          description: {
-            text: "Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.",
-            links: [
-              [
-                "The A11Y Project - Screen Reader Myths",
-                "https://a11yproject.com/posts/people-who-use-screen-readers-dont-use-javascript/",
-              ],
-              [
-                "The A11Y Project - NVDA Screen Reader",
-                "https://a11yproject.com/posts/getting-started-with-nvda/",
-              ],
-              [
-                "The A11Y Project - OS X Voiceover",
-                "https://a11yproject.com/posts/getting-started-with-voiceover/",
-              ],
-              [
-                "Webaim - Screen Reader Survey",
-                "https://webaim.org/projects/screenreadersurvey7/",
               ],
             ],
           },
