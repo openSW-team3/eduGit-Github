@@ -7,7 +7,7 @@ export const block_1_Collection = {
         {
           name: "git init",
           description: {
-            text: "Learn what accessibility is and why it is important.",
+            text: "git init는 새로운 Git 저장소(repository)를 생성할 때 사용하는 Git 명령어 입니다.",
             links: [
               [
                 "Google Devs - Accessibility Fundamentals",
