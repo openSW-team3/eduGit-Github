@@ -1,6 +1,6 @@
 ---
 name: REFACTOR
-about: refactor
+about: 코드 구조 재조정
 title: "[REFACTOR]"
 labels: "⛓ REFACTOR"
 assignees: ""
