@@ -7,35 +7,12 @@ export const block_5_Collection = {
         {
           name: "git fetch",
           description: {
-            text: "Learn what accessibility is and why it is important.",
+            text: "git fetch는 원격저장소에 있는 변경 사항들을 로컬 저장소에 가져오기 전에 변경 내용을 확인하고 싶은 경우에 사용하는 Git 명령어입니다.",
             links: [
+              ["Git scm - fetch", "https://git-scm.com/docs/git-fetch"],
               [
-                "Google Devs - Accessibility Fundamentals",
-                "https://developers.google.com/web/fundamentals/accessibility/",
-              ],
-              [
-                "A11ycasts with Rob Dodson",
-                "https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g",
-              ],
-              [
-                "Udacity - Chromevox Lite",
-                "http://udacity.github.io/ud891/lesson3-semantics-built-in/02-chromevox-lite/",
-              ],
-              [
-                "Dev.to - Why Accessibility Matters",
-                "https://dev.to/lhoffmanwg1/why-accessibility-matters-39nl",
-              ],
-              [
-                "Abilitynet - Why Accessibility Matters",
-                "https://www.abilitynet.org.uk/why-accessibility-matters",
-              ],
-              [
-                "Udacity - Web Accessibility",
-                "https://www.udacity.com/course/web-accessibility--ud891",
-              ],
-              [
-                "Youtube - Headings, Landmarks, and Tabs",
-                "https://www.youtube.com/watch?v=HE2R86EZPMA",
+                "Git tutorial - fetch",
+                "https://backlog.com/git-tutorial/kr/stepup/stepup3_2.html",
               ],
             ],
           },
@@ -43,23 +20,12 @@ export const block_5_Collection = {
         {
           name: "git pull",
           description: {
-            text: "Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.",
+            name: "git pull은 원격 저장소에 있는 프로젝트 내용을 로컬 저장소로 가져올 때 사용하는 Git 명령어입니다.",
             links: [
+              ["Git scm - pull", "https://git-scm.com/docs/git-pull"],
               [
-                "The A11Y Project - Screen Reader Myths",
-                "https://a11yproject.com/posts/people-who-use-screen-readers-dont-use-javascript/",
-              ],
-              [
-                "The A11Y Project - NVDA Screen Reader",
-                "https://a11yproject.com/posts/getting-started-with-nvda/",
-              ],
-              [
-                "The A11Y Project - OS X Voiceover",
-                "https://a11yproject.com/posts/getting-started-with-voiceover/",
-              ],
-              [
-                "Webaim - Screen Reader Survey",
-                "https://webaim.org/projects/screenreadersurvey7/",
+                "Git tutorial - pull",
+                "https://backlog.com/git-tutorial/kr/stepup/stepup3_1.html",
               ],
             ],
           },
@@ -67,23 +33,12 @@ export const block_5_Collection = {
         {
           name: "git push",
           description: {
-            text: "Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.",
+            text: "git push는 로컬 브랜치(local branch)를 원격 저장소(remote repository)로 푸시할 때 사용하는 Git 명령어입니다.",
             links: [
+              ["Git scm - push", "https://git-scm.com/docs/git-push"],
               [
-                "The A11Y Project - Screen Reader Myths",
-                "https://a11yproject.com/posts/people-who-use-screen-readers-dont-use-javascript/",
-              ],
-              [
-                "The A11Y Project - NVDA Screen Reader",
-                "https://a11yproject.com/posts/getting-started-with-nvda/",
-              ],
-              [
-                "The A11Y Project - OS X Voiceover",
-                "https://a11yproject.com/posts/getting-started-with-voiceover/",
-              ],
-              [
-                "Webaim - Screen Reader Survey",
-                "https://webaim.org/projects/screenreadersurvey7/",
+                "Git tutorial - push",
+                "https://backlog.com/git-tutorial/kr/intro/intro4_2.html",
               ],
             ],
           },
@@ -91,23 +46,12 @@ export const block_5_Collection = {
         {
           name: "git remote",
           description: {
-            text: "Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.",
+            text: "git remote는 원격 저장소를 관리할 수 있는 Git 명령어입니다.",
             links: [
+              ["Git scm - remote", "https://git-scm.com/docs/git-remote"],
               [
-                "The A11Y Project - Screen Reader Myths",
-                "https://a11yproject.com/posts/people-who-use-screen-readers-dont-use-javascript/",
-              ],
-              [
-                "The A11Y Project - NVDA Screen Reader",
-                "https://a11yproject.com/posts/getting-started-with-nvda/",
-              ],
-              [
-                "The A11Y Project - OS X Voiceover",
-                "https://a11yproject.com/posts/getting-started-with-voiceover/",
-              ],
-              [
-                "Webaim - Screen Reader Survey",
-                "https://webaim.org/projects/screenreadersurvey7/",
+                "Git tutorial - remote",
+                "https://backlog.com/git-tutorial/kr/reference/remote.html",
               ],
             ],
           },
