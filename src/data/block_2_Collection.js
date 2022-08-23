@@ -7,35 +7,12 @@ export const block_2_Collection = {
         {
           name: "git add",
           description: {
-            text: "Learn what accessibility is and why it is important.",
+            text: "git add는 Working Direcotry 에서 파일/폴더를 Staging Area에 등록하여 git으로 관리를 시작 하기위해 사용하는 Git 명령어 입니다.",
             links: [
+              ["Git scm - add", "https://git-scm.com/docs/git-add"],
               [
-                "Google Devs - Accessibility Fundamentals",
-                "https://developers.google.com/web/fundamentals/accessibility/",
-              ],
-              [
-                "A11ycasts with Rob Dodson",
-                "https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g",
-              ],
-              [
-                "Udacity - Chromevox Lite",
-                "http://udacity.github.io/ud891/lesson3-semantics-built-in/02-chromevox-lite/",
-              ],
-              [
-                "Dev.to - Why Accessibility Matters",
-                "https://dev.to/lhoffmanwg1/why-accessibility-matters-39nl",
-              ],
-              [
-                "Abilitynet - Why Accessibility Matters",
-                "https://www.abilitynet.org.uk/why-accessibility-matters",
-              ],
-              [
-                "Udacity - Web Accessibility",
-                "https://www.udacity.com/course/web-accessibility--ud891",
-              ],
-              [
-                "Youtube - Headings, Landmarks, and Tabs",
-                "https://www.youtube.com/watch?v=HE2R86EZPMA",
+                "Git tutorial - add",
+                "https://backlog.com/git-tutorial/kr/reference/basic.html#sec2",
               ],
             ],
           },
@@ -44,23 +21,12 @@ export const block_2_Collection = {
         {
           name: "git status",
           description: {
-            text: "Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.",
+            text: "git status는 git의 현재 상태를 확인 할 떄 사용하는 Git 명령어 입니다.",
             links: [
+              ["Git scm - status", "https://git-scm.com/docs/git-status"],
               [
-                "The A11Y Project - Screen Reader Myths",
-                "https://a11yproject.com/posts/people-who-use-screen-readers-dont-use-javascript/",
-              ],
-              [
-                "The A11Y Project - NVDA Screen Reader",
-                "https://a11yproject.com/posts/getting-started-with-nvda/",
-              ],
-              [
-                "The A11Y Project - OS X Voiceover",
-                "https://a11yproject.com/posts/getting-started-with-voiceover/",
-              ],
-              [
-                "Webaim - Screen Reader Survey",
-                "https://webaim.org/projects/screenreadersurvey7/",
+                "Git tutorial - status",
+                "https://backlog.com/git-tutorial/kr/reference/basic.html#sec4",
               ],
             ],
           },
@@ -68,23 +34,12 @@ export const block_2_Collection = {
         {
           name: "git diff",
           description: {
-            text: "Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.",
+            text: "git diff는 두 트리 개체의 차이를 보고 싶을 때 사용하는 Git 명령어 입니다.",
             links: [
+              ["Git scm - diff", "https://git-scm.com/docs/git-diff"],
               [
-                "The A11Y Project - Screen Reader Myths",
-                "https://a11yproject.com/posts/people-who-use-screen-readers-dont-use-javascript/",
-              ],
-              [
-                "The A11Y Project - NVDA Screen Reader",
-                "https://a11yproject.com/posts/getting-started-with-nvda/",
-              ],
-              [
-                "The A11Y Project - OS X Voiceover",
-                "https://a11yproject.com/posts/getting-started-with-voiceover/",
-              ],
-              [
-                "Webaim - Screen Reader Survey",
-                "https://webaim.org/projects/screenreadersurvey7/",
+                "Git tutorial - diff",
+                "https://backlog.com/git-tutorial/kr/reference/basic.html#sec5",
               ],
             ],
           },
@@ -92,23 +47,12 @@ export const block_2_Collection = {
         {
           name: "git commit",
           description: {
-            text: "Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.",
+            text: "git commit는 저장소에 하나의 스냅샷으로 기록할 떄 사용하는 Git 명령어 입니다.",
             links: [
+              ["Git scm - commit", "https://git-scm.com/docs/git-commit"],
               [
-                "The A11Y Project - Screen Reader Myths",
-                "https://a11yproject.com/posts/people-who-use-screen-readers-dont-use-javascript/",
-              ],
-              [
-                "The A11Y Project - NVDA Screen Reader",
-                "https://a11yproject.com/posts/getting-started-with-nvda/",
-              ],
-              [
-                "The A11Y Project - OS X Voiceover",
-                "https://a11yproject.com/posts/getting-started-with-voiceover/",
-              ],
-              [
-                "Webaim - Screen Reader Survey",
-                "https://webaim.org/projects/screenreadersurvey7/",
+                "Git tutorial - commit",
+                "https://backlog.com/git-tutorial/kr/reference/basic.html#sec3",
               ],
             ],
           },
@@ -116,23 +60,12 @@ export const block_2_Collection = {
         {
           name: "git reset",
           description: {
-            text: "Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.",
+            text: "git reset는 모든 내용을 되돌릴때 사용하는 Git 명령어 입니다.",
             links: [
+              ["Git scm - reset", "https://git-scm.com/docs/git-reset"],
               [
-                "The A11Y Project - Screen Reader Myths",
-                "https://a11yproject.com/posts/people-who-use-screen-readers-dont-use-javascript/",
-              ],
-              [
-                "The A11Y Project - NVDA Screen Reader",
-                "https://a11yproject.com/posts/getting-started-with-nvda/",
-              ],
-              [
-                "The A11Y Project - OS X Voiceover",
-                "https://a11yproject.com/posts/getting-started-with-voiceover/",
-              ],
-              [
-                "Webaim - Screen Reader Survey",
-                "https://webaim.org/projects/screenreadersurvey7/",
+                "Git tutorial - reset",
+                "https://backlog.com/git-tutorial/kr/reference/basic.html#sec12",
               ],
             ],
           },
@@ -140,23 +73,12 @@ export const block_2_Collection = {
         {
           name: "git clean",
           description: {
-            text: "Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.",
+            text: "git clean는 작업 디렉토리 파일에서 필요 없는 파일을 삭제하거나 충돌로 생긴 파일을 삭제할 때 사용하는 Git 명령어 입니다.",
             links: [
+              ["Git scm - clean", "https://git-scm.com/docs/git-clean"],
               [
-                "The A11Y Project - Screen Reader Myths",
-                "https://a11yproject.com/posts/people-who-use-screen-readers-dont-use-javascript/",
-              ],
-              [
-                "The A11Y Project - NVDA Screen Reader",
-                "https://a11yproject.com/posts/getting-started-with-nvda/",
-              ],
-              [
-                "The A11Y Project - OS X Voiceover",
-                "https://a11yproject.com/posts/getting-started-with-voiceover/",
-              ],
-              [
-                "Webaim - Screen Reader Survey",
-                "https://webaim.org/projects/screenreadersurvey7/",
+                "Git tutorial - clean",
+                "https://backlog.com/git-tutorial/kr/reference/basic.html#sec10",
               ],
             ],
           },
