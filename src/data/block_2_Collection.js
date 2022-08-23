@@ -62,21 +62,10 @@ export const block_2_Collection = {
           description: {
             text: "git reset는 모든 내용을 되돌릴때 사용하는 Git 명령어 입니다.",
             links: [
+              ["Git scm - reset", "https://git-scm.com/docs/git-reset"],
               [
-                "The A11Y Project - Screen Reader Myths",
-                "https://a11yproject.com/posts/people-who-use-screen-readers-dont-use-javascript/",
-              ],
-              [
-                "The A11Y Project - NVDA Screen Reader",
-                "https://a11yproject.com/posts/getting-started-with-nvda/",
-              ],
-              [
-                "The A11Y Project - OS X Voiceover",
-                "https://a11yproject.com/posts/getting-started-with-voiceover/",
-              ],
-              [
-                "Webaim - Screen Reader Survey",
-                "https://webaim.org/projects/screenreadersurvey7/",
+                "Git tutorial - reset",
+                "https://backlog.com/git-tutorial/kr/reference/basic.html#sec12",
               ],
             ],
           },
