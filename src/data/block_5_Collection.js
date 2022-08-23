@@ -43,7 +43,7 @@ export const block_5_Collection = {
         {
           name: "git pull",
           description: {
-            text: "Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.",
+            name: "git pull은 원격 저장소에 있는 프로젝트 내용을 로컬 저장소로 가져올 때 사용하는 Git 명령어입니다.",
             links: [
               [
                 "The A11Y Project - Screen Reader Myths",
