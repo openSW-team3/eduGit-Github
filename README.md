@@ -586,7 +586,7 @@ Learn about module bundler and how they can help bundling your code.
 
 ## ➤ 임시 저장
 
-### Testing Methodologies
+### git stash
 
 Learn about various software testing methodologies and why it is important to test your code.
 
