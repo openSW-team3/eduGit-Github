@@ -7,7 +7,7 @@ export const block_5_Collection = {
         {
           name: "git fetch",
           description: {
-            text: "Learn what accessibility is and why it is important.",
+            text: "git fetch는 원격저장소에 있는 변경 사항들을 로컬 저장소에 가져오기 전에 변경 내용을 확인하고 싶은 경우에 사용하는 Git 명령어입니다.",
             links: [
               [
                 "Google Devs - Accessibility Fundamentals",
