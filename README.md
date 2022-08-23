@@ -512,7 +512,7 @@ Learn how to use the alt attribute to provide a useful text alternative to this 
 
 ## ➤ Branch와 Merge
 
-### Custom Elements
+### git branch
 
 Learn how to create new HTML tags with Custom Elements.
 
@@ -524,7 +524,7 @@ Learn how to create new HTML tags with Custom Elements.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fitnext.io" alt="Logo" /> itnext - Introduction to Web Components](https://itnext.io/introduction-to-web-components-part-i-custom-elements-4de6713cef9d)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - Web Components](https://web.dev/web-components-io-2019/)
 
-### HTML Templates
+### git merge
 
 Learn how to use HTML templates to create flexible templates that can then be used to populate the Shadow DOM.
 
