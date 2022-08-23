@@ -7,7 +7,7 @@ export const block_2_Collection = {
         {
           name: "git add",
           description: {
-            text: "Learn what accessibility is and why it is important.",
+            text: "Working Direcotry 에서 파일/폴더를 Staging Area에 등록하여 git으로 관리를 시작 하기위해 사용하는 Git 명령어 입니다.",
             links: [
               [
                 "Google Devs - Accessibility Fundamentals",
