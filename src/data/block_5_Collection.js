@@ -9,33 +9,10 @@ export const block_5_Collection = {
           description: {
             text: "git fetch는 원격저장소에 있는 변경 사항들을 로컬 저장소에 가져오기 전에 변경 내용을 확인하고 싶은 경우에 사용하는 Git 명령어입니다.",
             links: [
+              ["Git scm - fetch", "https://git-scm.com/docs/git-fetch"],
               [
-                "Google Devs - Accessibility Fundamentals",
-                "https://developers.google.com/web/fundamentals/accessibility/",
-              ],
-              [
-                "A11ycasts with Rob Dodson",
-                "https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g",
-              ],
-              [
-                "Udacity - Chromevox Lite",
-                "http://udacity.github.io/ud891/lesson3-semantics-built-in/02-chromevox-lite/",
-              ],
-              [
-                "Dev.to - Why Accessibility Matters",
-                "https://dev.to/lhoffmanwg1/why-accessibility-matters-39nl",
-              ],
-              [
-                "Abilitynet - Why Accessibility Matters",
-                "https://www.abilitynet.org.uk/why-accessibility-matters",
-              ],
-              [
-                "Udacity - Web Accessibility",
-                "https://www.udacity.com/course/web-accessibility--ud891",
-              ],
-              [
-                "Youtube - Headings, Landmarks, and Tabs",
-                "https://www.youtube.com/watch?v=HE2R86EZPMA",
+                "Git tutorial - fetch",
+                "https://backlog.com/git-tutorial/kr/stepup/stepup3_2.html",
               ],
             ],
           },
