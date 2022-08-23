@@ -22,21 +22,10 @@ export const block_5_Collection = {
           description: {
             name: "git pull은 원격 저장소에 있는 프로젝트 내용을 로컬 저장소로 가져올 때 사용하는 Git 명령어입니다.",
             links: [
+              ["Git scm - pull", "https://git-scm.com/docs/git-pull"],
               [
-                "The A11Y Project - Screen Reader Myths",
-                "https://a11yproject.com/posts/people-who-use-screen-readers-dont-use-javascript/",
-              ],
-              [
-                "The A11Y Project - NVDA Screen Reader",
-                "https://a11yproject.com/posts/getting-started-with-nvda/",
-              ],
-              [
-                "The A11Y Project - OS X Voiceover",
-                "https://a11yproject.com/posts/getting-started-with-voiceover/",
-              ],
-              [
-                "Webaim - Screen Reader Survey",
-                "https://webaim.org/projects/screenreadersurvey7/",
+                "Git tutorial - pull",
+                "https://backlog.com/git-tutorial/kr/stepup/stepup3_1.html",
               ],
             ],
           },
