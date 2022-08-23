@@ -7,7 +7,7 @@ export const block_3_Collection = {
         {
           name: "git branch",
           description: {
-            text: "Learn what accessibility is and why it is important.",
+            text: "git branch는 변경 사항의 스냅샷에 대한 포인터로 사용하는 Git 명령어 입니다.",
             links: [
               [
                 "Google Devs - Accessibility Fundamentals",
