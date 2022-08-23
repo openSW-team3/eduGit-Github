@@ -20,7 +20,7 @@ export const block_3_Collection = {
         {
           name: "git merge",
           description: {
-            text: "Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.",
+            text: "git merge는 다른 branch를 현재 checkout된 branch와 합치고 merge 된 결과를 가리키도록 옮길 때 사용하는 Git 명령어 입니다.",
             links: [
               [
                 "The A11Y Project - Screen Reader Myths",
