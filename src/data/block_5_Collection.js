@@ -35,21 +35,10 @@ export const block_5_Collection = {
           description: {
             text: "git push는 로컬 브랜치(local branch)를 원격 저장소(remote repository)로 푸시할 때 사용하는 Git 명령어입니다.",
             links: [
+              ["Git scm - push", "https://git-scm.com/docs/git-push"],
               [
-                "The A11Y Project - Screen Reader Myths",
-                "https://a11yproject.com/posts/people-who-use-screen-readers-dont-use-javascript/",
-              ],
-              [
-                "The A11Y Project - NVDA Screen Reader",
-                "https://a11yproject.com/posts/getting-started-with-nvda/",
-              ],
-              [
-                "The A11Y Project - OS X Voiceover",
-                "https://a11yproject.com/posts/getting-started-with-voiceover/",
-              ],
-              [
-                "Webaim - Screen Reader Survey",
-                "https://webaim.org/projects/screenreadersurvey7/",
+                "Git tutorial - push",
+                "https://backlog.com/git-tutorial/kr/intro/intro4_2.html",
               ],
             ],
           },
