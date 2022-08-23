@@ -1,13 +1,13 @@
 export const block_4_Collection = {
   name: "block_4",
-  title: "log",
+  title: "Log",
   areas: [
     {
       skills: [
         {
           name: "git log",
           description: {
-            text: "Learn what accessibility is and why it is important.",
+            text: "git log는 commit 히스토리를 시간의 역순으로 보여줄 때 사용하는 Git 명령어 입니다.",
             links: [
               [
                 "Google Devs - Accessibility Fundamentals",
