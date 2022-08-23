@@ -536,9 +536,7 @@ Learn how to use HTML templates to create flexible templates that can then be us
 
 ## ➤ Log
 
-### API's
-
-### Storage
+### git log
 
 Learn how to store data for your web app.
 
