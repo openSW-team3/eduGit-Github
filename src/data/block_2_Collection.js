@@ -73,7 +73,7 @@ export const block_2_Collection = {
         {
           name: "git clean",
           description: {
-            text: "Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.",
+            text: "git clean는 작업 디렉토리 파일에서 필요 없는 파일을 삭제하거나 충돌로 생긴 파일을 삭제할 때 사용하는 Git 명령어 입니다.",
             links: [
               [
                 "The A11Y Project - Screen Reader Myths",
