@@ -34,7 +34,7 @@ export const block_2_Collection = {
         {
           name: "git diff",
           description: {
-            text: "Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.",
+            text: "git diff는 두 트리 개체의 차이를 보고 싶을 때 사용하는 Git 명령어 입니다.",
             links: [
               [
                 "The A11Y Project - Screen Reader Myths",
