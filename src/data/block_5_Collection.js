@@ -67,7 +67,7 @@ export const block_5_Collection = {
         {
           name: "git push",
           description: {
-            text: "Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.",
+            text: "git push는 로컬 브랜치(local branch)를 원격 저장소(remote repository)로 푸시할 때 사용하는 Git 명령어입니다.",
             links: [
               [
                 "The A11Y Project - Screen Reader Myths",
