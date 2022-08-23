@@ -454,7 +454,7 @@ Get familiar with the basic HTML tags
 
 ## ➤ Snapshot 스냅샷 다루기
 
-### The why
+### git add
 
 Learn what accessibility is and why it is important.
 
@@ -466,7 +466,7 @@ Learn what accessibility is and why it is important.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.udacity.com" alt="Logo" /> Udacity - Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Youtube - Headings, Landmarks, and Tabs](https://www.youtube.com/watch?v=HE2R86EZPMA)
 
-### Screen Readers
+### git status
 
 Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.
 
@@ -475,13 +475,13 @@ Learn about assistive technology such as screen readers that reads sections of t
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fa11yproject.com" alt="Logo" /> The A11Y Project - OS X Voiceover](https://a11yproject.com/posts/getting-started-with-voiceover/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebaim.org" alt="Logo" /> Webaim - Screen Reader Survey](https://webaim.org/projects/screenreadersurvey7/)
 
-### Accessibility tree
+### git diff
 
 Learn about the accessibility tree and how assistive technology uses it.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - The Accessibility Tree](https://developers.google.com/web/fundamentals/accessibility/semantics-builtin/the-accessibility-tree)
 
-#### ARIA
+#### git commit
 
 Learn how to use ARIA descriptions an labels to help assistive technology understanding your website.
 
@@ -490,7 +490,7 @@ Learn how to use ARIA descriptions an labels to help assistive technology unders
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fa11yproject.com" alt="Logo" /> The A11Y Project - ARIA States](https://a11yproject.com/posts/ARIA-states/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fa11yproject.com" alt="Logo" /> The A11Y Project - ARIA Properties](https://a11yproject.com/posts/ARIA-properties/)
 
-#### Accessible HTML
+#### git reset
 
 Learn how to write HTML in such as way that assistive technology better understands it.
 
@@ -500,7 +500,7 @@ Learn how to write HTML in such as way that assistive technology better understa
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3.org" alt="Logo" /> w3c - Headings](https://www.w3.org/WAI/tutorials/page-structure/headings/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fguide.freecodecamp.org" alt="Logo" /> Freecodecamp - Semantic Elements](https://guide.freecodecamp.org/html/html5-semantic-elements/)
 
-##### Alt text
+##### git clean
 
 Learn how to use the alt attribute to provide a useful text alternative to this image.
 
