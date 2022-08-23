@@ -91,7 +91,7 @@ export const block_5_Collection = {
         {
           name: "git remote",
           description: {
-            text: "Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.",
+            text: "git remote는 원격 저장소를 관리할 수 있는 Git 명령어입니다.",
             links: [
               [
                 "The A11Y Project - Screen Reader Myths",
