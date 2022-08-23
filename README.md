@@ -433,9 +433,7 @@ Please look up the people of the organization on the corresponding GitHub homepa
 
 ## ➤ Git 프로젝트 생성하기, 가져오기
 
-### HTML
-
-### Syntax
+### git init
 
 Learn the basics of HTML and get comfortable with it's syntax and main concepts.
 
@@ -443,7 +441,7 @@ Learn the basics of HTML and get comfortable with it's syntax and main concepts.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.codecademy.com" alt="Logo" /> Codecademy - Learn HTML](https://www.codecademy.com/learn/learn-html)
 
-#### Basic Tags
+#### git clone
 
 Get familiar with the basic HTML tags
 
