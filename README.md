@@ -433,9 +433,7 @@ Please look up the people of the organization on the corresponding GitHub homepa
 
 ## ➤ Git 프로젝트 생성하기, 가져오기
 
-### HTML
-
-### Syntax
+### git init
 
 Learn the basics of HTML and get comfortable with it's syntax and main concepts.
 
@@ -443,7 +441,7 @@ Learn the basics of HTML and get comfortable with it's syntax and main concepts.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.codecademy.com" alt="Logo" /> Codecademy - Learn HTML](https://www.codecademy.com/learn/learn-html)
 
-#### Basic Tags
+#### git clone
 
 Get familiar with the basic HTML tags
 
@@ -456,7 +454,7 @@ Get familiar with the basic HTML tags
 
 ## ➤ Snapshot 스냅샷 다루기
 
-### The why
+### git add
 
 Learn what accessibility is and why it is important.
 
@@ -468,7 +466,7 @@ Learn what accessibility is and why it is important.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.udacity.com" alt="Logo" /> Udacity - Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Youtube - Headings, Landmarks, and Tabs](https://www.youtube.com/watch?v=HE2R86EZPMA)
 
-### Screen Readers
+### git status
 
 Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.
 
@@ -477,13 +475,13 @@ Learn about assistive technology such as screen readers that reads sections of t
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fa11yproject.com" alt="Logo" /> The A11Y Project - OS X Voiceover](https://a11yproject.com/posts/getting-started-with-voiceover/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebaim.org" alt="Logo" /> Webaim - Screen Reader Survey](https://webaim.org/projects/screenreadersurvey7/)
 
-### Accessibility tree
+### git diff
 
 Learn about the accessibility tree and how assistive technology uses it.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Google Devs - The Accessibility Tree](https://developers.google.com/web/fundamentals/accessibility/semantics-builtin/the-accessibility-tree)
 
-#### ARIA
+#### git commit
 
 Learn how to use ARIA descriptions an labels to help assistive technology understanding your website.
 
@@ -492,7 +490,7 @@ Learn how to use ARIA descriptions an labels to help assistive technology unders
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fa11yproject.com" alt="Logo" /> The A11Y Project - ARIA States](https://a11yproject.com/posts/ARIA-states/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fa11yproject.com" alt="Logo" /> The A11Y Project - ARIA Properties](https://a11yproject.com/posts/ARIA-properties/)
 
-#### Accessible HTML
+#### git reset
 
 Learn how to write HTML in such as way that assistive technology better understands it.
 
@@ -502,7 +500,7 @@ Learn how to write HTML in such as way that assistive technology better understa
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3.org" alt="Logo" /> w3c - Headings](https://www.w3.org/WAI/tutorials/page-structure/headings/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fguide.freecodecamp.org" alt="Logo" /> Freecodecamp - Semantic Elements](https://guide.freecodecamp.org/html/html5-semantic-elements/)
 
-##### Alt text
+##### git clean
 
 Learn how to use the alt attribute to provide a useful text alternative to this image.
 
@@ -514,7 +512,7 @@ Learn how to use the alt attribute to provide a useful text alternative to this 
 
 ## ➤ Branch와 Merge
 
-### Custom Elements
+### git branch
 
 Learn how to create new HTML tags with Custom Elements.
 
@@ -526,7 +524,7 @@ Learn how to create new HTML tags with Custom Elements.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fitnext.io" alt="Logo" /> itnext - Introduction to Web Components](https://itnext.io/introduction-to-web-components-part-i-custom-elements-4de6713cef9d)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fweb.dev" alt="Logo" /> web.dev - Web Components](https://web.dev/web-components-io-2019/)
 
-### HTML Templates
+### git merge
 
 Learn how to use HTML templates to create flexible templates that can then be used to populate the Shadow DOM.
 
@@ -538,9 +536,7 @@ Learn how to use HTML templates to create flexible templates that can then be us
 
 ## ➤ Log
 
-### API's
-
-### Storage
+### git log
 
 Learn how to store data for your web app.
 
@@ -555,14 +551,14 @@ Learn how to store data for your web app.
 
 ## ➤ 공유 & 업데이트
 
-### Package Managers
+### git fetch
 
 Learn about package managers and how they make managing dependencies easier.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.freecodecamp.org" alt="Logo" /> Freecodecamp - How JavaScript package managers work](https://www.freecodecamp.org/news/javascript-package-managers-101-9afd926add0a/)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.javascriptstuff.com" alt="Logo" /> Guide to JavaScript frontend package managers](https://www.javascriptstuff.com/javascript-frontend-package-managers/)
 
-#### NPM
+#### git pull
 
 Learn about NPM and how it can be used to manage dependencies.
 
@@ -571,14 +567,14 @@ Learn about NPM and how it can be used to manage dependencies.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fmedium.com" alt="Logo" /> Introduction to npm and basic npm commands](https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-npm-and-basic-npm-commands-18aa16f69f6b)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fnodesource.com" alt="Logo" /> An Absolute Beginner's Guide to Using npm](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
 
-#### Yarn
+#### git push
 
 Learn about Yarn and how it can be used to manage dependencies.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fyarnpkg.com" alt="Logo" /> Yarnpkg - Getting Started](https://yarnpkg.com/en/docs/getting-started)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fengineering.fb.com" alt="Logo" /> Facebook Engineering - Yarn](https://engineering.fb.com/web/yarn-a-new-package-manager-for-javascript/)
 
-### Module Bundlers
+### git remote
 
 Learn about module bundler and how they can help bundling your code.
 
@@ -590,7 +586,7 @@ Learn about module bundler and how they can help bundling your code.
 
 ## ➤ 임시 저장
 
-### Testing Methodologies
+### git stash
 
 Learn about various software testing methodologies and why it is important to test your code.
 
