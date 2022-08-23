@@ -36,21 +36,10 @@ export const block_2_Collection = {
           description: {
             text: "git diff는 두 트리 개체의 차이를 보고 싶을 때 사용하는 Git 명령어 입니다.",
             links: [
+              ["Git scm - diff", "https://git-scm.com/docs/git-diff"],
               [
-                "The A11Y Project - Screen Reader Myths",
-                "https://a11yproject.com/posts/people-who-use-screen-readers-dont-use-javascript/",
-              ],
-              [
-                "The A11Y Project - NVDA Screen Reader",
-                "https://a11yproject.com/posts/getting-started-with-nvda/",
-              ],
-              [
-                "The A11Y Project - OS X Voiceover",
-                "https://a11yproject.com/posts/getting-started-with-voiceover/",
-              ],
-              [
-                "Webaim - Screen Reader Survey",
-                "https://webaim.org/projects/screenreadersurvey7/",
+                "Git tutorial - diff",
+                "https://backlog.com/git-tutorial/kr/reference/basic.html#sec5",
               ],
             ],
           },
