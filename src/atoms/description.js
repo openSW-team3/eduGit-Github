@@ -381,6 +381,8 @@ export class Description extends LitElement {
     const { skill, isCompleted, isAuthenticated, skillSearchQuery } = this;
     const { description, name } = skill;
 
+    let searchQuery = skillSearchQuery.substring(8);
+
     return html`
       <h4 id="title">${name}</h4>
       ${description != null && description.text != null
@@ -404,7 +406,7 @@ export class Description extends LitElement {
         <a
           id="search-google"
           href="https://www.google.com/search?q=${encodeURIComponent(
-            skillSearchQuery
+            searchQuery
           )}"
           target="_blank"
           aria-label="Search on Google"
@@ -416,7 +418,7 @@ export class Description extends LitElement {
         <a
           id="search-youtube"
           href="https://www.youtube.com/results?search_query=${encodeURIComponent(
-            skillSearchQuery
+            searchQuery
           )}"
           target="_blank"
           aria-label="Search on Youtube"
