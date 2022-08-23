@@ -9,33 +9,10 @@ export const block_1_Collection = {
           description: {
             text: "git init는 새로운 Git 저장소(repository)를 생성할 때 사용하는 Git 명령어 입니다.",
             links: [
+              ["Git scm - init", "https://git-scm.com/docs/git-init"],
               [
-                "Google Devs - Accessibility Fundamentals",
-                "https://developers.google.com/web/fundamentals/accessibility/",
-              ],
-              [
-                "A11ycasts with Rob Dodson",
-                "https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g",
-              ],
-              [
-                "Udacity - Chromevox Lite",
-                "http://udacity.github.io/ud891/lesson3-semantics-built-in/02-chromevox-lite/",
-              ],
-              [
-                "Dev.to - Why Accessibility Matters",
-                "https://dev.to/lhoffmanwg1/why-accessibility-matters-39nl",
-              ],
-              [
-                "Abilitynet - Why Accessibility Matters",
-                "https://www.abilitynet.org.uk/why-accessibility-matters",
-              ],
-              [
-                "Udacity - Web Accessibility",
-                "https://www.udacity.com/course/web-accessibility--ud891",
-              ],
-              [
-                "Youtube - Headings, Landmarks, and Tabs",
-                "https://www.youtube.com/watch?v=HE2R86EZPMA",
+                "Git tutorial - init",
+                "https://backlog.com/git-tutorial/kr/intro/intro2_3.html",
               ],
             ],
           },
@@ -44,23 +21,12 @@ export const block_1_Collection = {
         {
           name: "git clone",
           description: {
-            text: " git clone: git repository 가져오기",
+            text: "git clone는  기존 사용되던 저장소를 복제하여 가져올때 사용하는 Git 명령어 입니다.",
             links: [
+              ["Git scm - clone", "https://git-scm.com/docs/git-clone"],
               [
-                "The A11Y Project - Screen Reader Myths",
-                "https://a11yproject.com/posts/people-who-use-screen-readers-dont-use-javascript/",
-              ],
-              [
-                "The A11Y Project - NVDA Screen Reader",
-                "https://a11yproject.com/posts/getting-started-with-nvda/",
-              ],
-              [
-                "The A11Y Project - OS X Voiceover",
-                "https://a11yproject.com/posts/getting-started-with-voiceover/",
-              ],
-              [
-                "Webaim - Screen Reader Survey",
-                "https://webaim.org/projects/screenreadersurvey7/",
+                "Git tutorial - clone",
+                "https://backlog.com/git-tutorial/kr/intro/intro3_2.html",
               ],
             ],
           },
