@@ -9,33 +9,10 @@ export const block_3_Collection = {
           description: {
             text: "git branch는 변경 사항의 스냅샷에 대한 포인터로 사용하는 Git 명령어 입니다.",
             links: [
+              ["Git scm - branch", "https://git-scm.com/docs/git-branch"],
               [
-                "Google Devs - Accessibility Fundamentals",
-                "https://developers.google.com/web/fundamentals/accessibility/",
-              ],
-              [
-                "A11ycasts with Rob Dodson",
-                "https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g",
-              ],
-              [
-                "Udacity - Chromevox Lite",
-                "http://udacity.github.io/ud891/lesson3-semantics-built-in/02-chromevox-lite/",
-              ],
-              [
-                "Dev.to - Why Accessibility Matters",
-                "https://dev.to/lhoffmanwg1/why-accessibility-matters-39nl",
-              ],
-              [
-                "Abilitynet - Why Accessibility Matters",
-                "https://www.abilitynet.org.uk/why-accessibility-matters",
-              ],
-              [
-                "Udacity - Web Accessibility",
-                "https://www.udacity.com/course/web-accessibility--ud891",
-              ],
-              [
-                "Youtube - Headings, Landmarks, and Tabs",
-                "https://www.youtube.com/watch?v=HE2R86EZPMA",
+                "Git tutorial - branch",
+                "https://backlog.com/git-tutorial/kr/reference/branch.html",
               ],
             ],
           },
