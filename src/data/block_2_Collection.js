@@ -47,7 +47,7 @@ export const block_2_Collection = {
         {
           name: "git commit",
           description: {
-            text: "Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.",
+            text: "git commit는 저장소에 하나의 스냅샷으로 기록할 떄 사용하는 Git 명령어 입니다.",
             links: [
               [
                 "The A11Y Project - Screen Reader Myths",
