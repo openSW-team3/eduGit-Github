@@ -7,7 +7,7 @@ export const block_6_Collection = {
         {
           name: "git stash",
           description: {
-            text: "Learn what accessibility is and why it is important.",
+            text: "git stash는 변경사항을 임시로 저장할 수 있도록 도와주는 Git 명령어입니다.",
             links: [
               [
                 "Google Devs - Accessibility Fundamentals",
