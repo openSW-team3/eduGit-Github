@@ -21,7 +21,7 @@ export const block_1_Collection = {
         {
           name: "git clone",
           description: {
-            text: " git clone: git repository 가져오기",
+            text: "git clone는  기존 사용되던 저장소를 복제하여 가져올때 사용하는 Git 명령어 입니다.",
             links: [
               [
                 "The A11Y Project - Screen Reader Myths",
