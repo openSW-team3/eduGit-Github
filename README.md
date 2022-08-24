@@ -562,9 +562,8 @@ Learn about module bundler and how they can help bundling your code.
 
 Learn about various software testing methodologies and why it is important to test your code.
 
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Wikipedia - Software testing](https://en.wikipedia.org/wiki/Software_testing)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsmartbear.com" alt="Logo" /> Software Testing Methodologies](https://smartbear.com/learn/automated-testing/software-testing-methodologies/)
-- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.inflectra.com" alt="Logo" /> Learn The Methods & Tools](https://www.inflectra.com/ideas/topic/testing-methodologies.aspx)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Git scm - stash](https://git-scm.com/docs/git-stash)
+- [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsmartbear.com" alt="Logo" /> Git tutorial - stash](https://backlog.com/git-tutorial/kr/reference/stash.html)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#contributors)
 
