@@ -20,7 +20,7 @@ export const block_5_Collection = {
         {
           name: "git pull",
           description: {
-            name: "git pull은 원격 저장소에 있는 프로젝트 내용을 로컬 저장소로 가져올 때 사용하는 Git 명령어입니다.",
+            text: "git pull은 원격 저장소에 있는 프로젝트 내용을 로컬 저장소로 가져올 때 사용하는 Git 명령어입니다.",
             links: [
               ["Git scm - pull", "https://git-scm.com/docs/git-pull"],
               [
