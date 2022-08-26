@@ -48,6 +48,6 @@
 
 ### 예시
 
-Issue 발행) [FIX] ~~~~~
-commit) [fix]: ~~~~~ (#n)
-PR) [fix]: ~~~~~~ (#n)
+Issue 발행) [FIX] ~~~~~ <br>
+commit) [fix]: ~~~~~ (#n) <br>
+PR) [fix]: ~~~~~~ (#n) <br>
