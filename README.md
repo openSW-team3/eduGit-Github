@@ -528,28 +528,28 @@ git log는 commit 히스토리를 시간의 역순으로 보여줄 때 사용하
 
 ### git fetch
 
-Learn about package managers and how they make managing dependencies easier.
+git fetch는 원격저장소에 있는 변경 사항들을 로컬 저장소에 가져오기 전에 변경 내용을 확인하고 싶은 경우에 사용하는 Git 명령어입니다.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.freecodecamp.org" alt="Logo" /> Git scm - fetch](https://git-scm.com/docs/git-fetch)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.javascriptstuff.com" alt="Logo" /> Git tutorial - fetch](https://backlog.com/git-tutorial/kr/stepup/stepup3_2.html)
 
 #### git pull
 
-Learn about NPM and how it can be used to manage dependencies.
+git pull은 원격 저장소에 있는 프로젝트 내용을 로컬 저장소로 가져올 때 사용하는 Git 명령어입니다.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdocs.npmjs.com" alt="Logo" /> Git scm - pull](https://git-scm.com/docs/git-pull)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdocs.npmjs.com" alt="Logo" /> Git tutorial - pull](https://backlog.com/git-tutorial/kr/stepup/stepup3_1.html)
 
 #### git push
 
-Learn about Yarn and how it can be used to manage dependencies.
+git push는 로컬 브랜치(local branch)를 원격 저장소(remote repository)로 푸시할 때 사용하는 Git 명령어입니다.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fyarnpkg.com" alt="Logo" /> Git scm - push](https://git-scm.com/docs/git-push)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fengineering.fb.com" alt="Logo" /> Git tutorial - push](https://backlog.com/git-tutorial/kr/intro/intro4_2.html)
 
 ### git remote
 
-Learn about module bundler and how they can help bundling your code.
+git remote는 원격 저장소를 관리할 수 있는 Git 명령어입니다.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> Git scm - remote](https://git-scm.com/docs/git-remote)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.freecodecamp.org" alt="Logo" /> Git tutorial - remote](https://backlog.com/git-tutorial/kr/reference/remote.html)
