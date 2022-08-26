@@ -453,42 +453,42 @@ git clone는 기존 사용되던 저장소를 복제하여 가져올때 사용�
 
 ### git add
 
-Learn what accessibility is and why it is important.
+git add는 Working Direcotry 에서 파일/폴더를 Staging Area에 등록하여 git으로 관리를 시작 하기위해 사용하는 Git 명령어 입니다.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Git scm - add](https://git-scm.com/docs/git-add)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Git tutorial - add](https://backlog.com/git-tutorial/kr/reference/basic.html#sec2)
 
 ### git status
 
-Learn about assistive technology such as screen readers that reads sections of the page aloud based on the current focus.
+git status는 git의 현재 상태를 확인 할 떄 사용하는 Git 명령어 입니다.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fa11yproject.com" alt="Logo" /> Git scm - status](https://git-scm.com/docs/git-status)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fa11yproject.com" alt="Logo" /> Git tutorial - status](https://backlog.com/git-tutorial/kr/reference/basic.html#sec4)
 
 ### git diff
 
-Learn about the accessibility tree and how assistive technology uses it.
+git diff는 두 트리 개체의 차이를 보고 싶을 때 사용하는 Git 명령어 입니다.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Git scm - diff](https://git-scm.com/docs/git-diff)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Git tutorial - diff](https://backlog.com/git-tutorial/kr/reference/basic.html#sec5)
 
 #### git commit
 
-Learn how to use ARIA descriptions an labels to help assistive technology understanding your website.
+git commit는 저장소에 하나의 스냅샷으로 기록할 떄 사용하는 Git 명령어 입니다.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Git scm - commit](https://git-scm.com/docs/git-commit)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Git tutorial - commit](https://backlog.com/git-tutorial/kr/reference/basic.html#sec3)
 
 #### git reset
 
-Learn how to write HTML in such as way that assistive technology better understands it.
+git reset는 모든 내용을 되돌릴때 사용하는 Git 명령어 입니다.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Git scm - reset](https://git-scm.com/docs/git-reset)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> Git tutorial - reset](https://backlog.com/git-tutorial/kr/reference/basic.html#sec12)
 
 ##### git clean
 
-Learn how to use the alt attribute to provide a useful text alternative to this image.
+git clean는 작업 디렉토리 파일에서 필요 없는 파일을 삭제하거나 충돌로 생긴 파일을 삭제할 때 사용하는 Git 명령어 입니다.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Git scm - clean](https://git-scm.com/docs/git-clean)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwebaim.org" alt="Logo" /> Git tutorial - clean](https://backlog.com/git-tutorial/kr/reference/basic.html#sec10)
