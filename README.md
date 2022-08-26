@@ -499,14 +499,14 @@ git clean는 작업 디렉토리 파일에서 필요 없는 파일을 삭제하�
 
 ### git branch
 
-Learn how to create new HTML tags with Custom Elements.
+git branch는 변경 사항의 스냅샷에 대한 포인터로 사용하는 Git 명령어 입니다.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Git scm - branch](https://git-scm.com/docs/git-branch)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> Git tutorial - branch](https://backlog.com/git-tutorial/kr/reference/branch.html)
 
 ### git merge
 
-Learn how to use HTML templates to create flexible templates that can then be used to populate the Shadow DOM.
+git merge는 다른 branch를 현재 checkout된 branch와 합치고 merge 된 결과를 가리키도록 옮길 때 사용하는 Git 명령어 입니다.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> Git scm - merge](https://git-scm.com/docs/git-merge)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fjavascript.info" alt="Logo" /> Git tutorial - merge](https://backlog.com/git-tutorial/kr/reference/branch.html#sec6)
