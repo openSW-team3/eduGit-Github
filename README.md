@@ -569,13 +569,13 @@ git stash는 변경사항을 임시로 저장할 수 있도록 도와주는 Git 
 
 ## ➤ Contributors
 
-| [<img alt="Andreas Mehlsen" src="https://avatars1.githubusercontent.com/u/6267397?s=460&v=4" width="100">](https://twitter.com/andreasmehlsen) | [<img alt="You?" src="https://joeschmoe.io/api/v1/random" width="100">](https://github.com/andreasbm/readme/blob/master/CONTRIBUTING.md) |
-| :--------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-|                                             [Andreas Mehlsen](https://twitter.com/andreasmehlsen)                                              |                                 [You?](https://github.com/andreasbm/readme/blob/master/CONTRIBUTING.md)                                  |
-|                                                                       🔥                                                                       |                                                                                                                                          |
+| [<img alt="YEOLAM" src="https://avatars.githubusercontent.com/u/56868605?v=4" width="100">](https://github.com/developersung13) | [<img alt="chanmyeong" src="https://avatars.githubusercontent.com/u/64055771?v=4" width="100">](https://github.com/chanmyeong) | [<img alt="Phks098" src="https://avatars.githubusercontent.com/u/86037127?v=4" width="100">](https://github.com/Phks098) | [<img alt="You?" src="https://joeschmoe.io/api/v1/random" width="100">](https://github.com/openSW-team3/eduGit-Github/blob/main/CONTRIBUTING.md) |
+| :-----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+|                                          [YEOLAM](https://github.com/developersung13)                                           |                                          [chanmyeong](https://github.com/chanmyeong)                                           | [Phks098](https://github.com/Phks098)                                                                                    | [You?](https://github.com/openSW-team3/eduGit-Github/blob/main/CONTRIBUTING.md)                                                                  |
+|                                                               🔥                                                                |                                                               🔥                                                               | 🔥                                                                                                                       |
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
 
-## ➤ License
+## ➤ Original
 
-Licensed under [MIT](https://opensource.org/licenses/MIT).
+Original OpenSW under [Web Skills](https://github.com/andreasbm/web-skills).
