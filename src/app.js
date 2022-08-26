@@ -94,10 +94,8 @@ export class App extends LitElement {
 
         #collections {
           padding: var(--spacing-xxxl) var(--spacing-xxxl) 0;
-          display: flex;
-          flex-direction: column;
-          align-items: flex-start;
           min-width: min-content;
+          text-align: center;
         }
 
         #footer {
@@ -105,7 +103,7 @@ export class App extends LitElement {
         }
 
         .collection:not(:last-child) {
-          margin: 0 0 var(--spacing-xxl);
+          margin: 0 var(--spacing-l) var(--spacing-xl) 0;
         }
 
         #header,
