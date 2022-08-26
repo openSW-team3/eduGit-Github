@@ -38,12 +38,12 @@
   - [git merge](#git-merge)
 - [➤ Log](#-log)
   - [git log](#git-log)
-- [➤ 공유 & 업데이트](#-공유-업데이트)
+- [➤ 공유 & 업데이트](#-공유-&-업데이트)
   - [git fetch](#git-fetch)
   - [git pull](#git-pull)
   - [git push](#git-push)
   - [git remote](#git-remote)
-- [➤ 임시저장](#-임시저장)
+- [➤ 임시 저장](#-임시-저장)
   - [git stash](#git-stash)
   </details>
 
