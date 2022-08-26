@@ -26,21 +26,13 @@
 - [➤ Git 프로젝트 생성하기, 가져오기](#-git-프로젝트-생성하기-가져오기)
   - [git init](#git-init)
   - [git clone](#git-clone)
-- [➤ Accessibility](#-accessibility)
-  - [The why](#the-why)
-  - [Screen Readers](#screen-readers)
-  - [Accessibility tree](#accessibility-tree)
-    - [ARIA](#aria)
-    - [Accessible HTML](#accessible-html)
-      - [Alt text](#alt-text)
-    - [Accessible CSS](#accessible-css)
-  - [Accessible forms](#accessible-forms)
-  - [UI States](#ui-states)
-  - [Keyboard Accessibility](#keyboard-accessibility)
-    - [Focus](#focus)
-  - [Accessible Colors](#accessible-colors)
-  - [Laws & Policies](#laws--policies)
-    - [Audits](#audits)
+- [➤ Snapshot 스냅샷 다루기](#-snapshot-스냅샷-다루기)
+  - [git add](#git-add)
+  - [git status](#git-status)
+  - [git diff](#git-diff)
+  - [git commit](#git-commit)
+  - [git reset](#git-reset)
+  - [git clean](#git-clean)
 - [➤ Web Components](#-web-components)
   - [Custom Elements](#custom-elements)
   - [HTML Templates](#html-templates)
@@ -406,21 +398,21 @@ git diff는 두 트리 개체의 차이를 보고 싶을 때 사용하는 Git �
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Git scm - diff](https://git-scm.com/docs/git-diff)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Git tutorial - diff](https://backlog.com/git-tutorial/kr/reference/basic.html#sec5)
 
-#### git commit
+### git commit
 
 git commit는 저장소에 하나의 스냅샷으로 기록할 떄 사용하는 Git 명령어 입니다.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Git scm - commit](https://git-scm.com/docs/git-commit)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Git tutorial - commit](https://backlog.com/git-tutorial/kr/reference/basic.html#sec3)
 
-#### git reset
+### git reset
 
 git reset는 모든 내용을 되돌릴때 사용하는 Git 명령어 입니다.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Git scm - reset](https://git-scm.com/docs/git-reset)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> Git tutorial - reset](https://backlog.com/git-tutorial/kr/reference/basic.html#sec12)
 
-##### git clean
+#### git clean
 
 git clean는 작업 디렉토리 파일에서 필요 없는 파일을 삭제하거나 충돌로 생긴 파일을 삭제할 때 사용하는 Git 명령어 입니다.
 
