@@ -86,7 +86,7 @@ git init는 새로운 Git 저장소(repository)를 생성할 때 사용하는 Gi
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> Git scm - init](https://git-scm.com/docs/git-init)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> Git tutorial - init](https://backlog.com/git-tutorial/kr/intro/intro2_3.html)
 
-#### git clone
+### git clone
 
 git clone는 기존 사용되던 저장소를 복제하여 가져올때 사용하는 Git 명령어 입니다.
 
@@ -132,7 +132,7 @@ git reset는 모든 내용을 되돌릴때 사용하는 Git 명령어 입니다.
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdevelopers.google.com" alt="Logo" /> Git scm - reset](https://git-scm.com/docs/git-reset)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> Git tutorial - reset](https://backlog.com/git-tutorial/kr/reference/basic.html#sec12)
 
-#### git clean
+### git clean
 
 git clean는 작업 디렉토리 파일에서 필요 없는 파일을 삭제하거나 충돌로 생긴 파일을 삭제할 때 사용하는 Git 명령어 입니다.
 
