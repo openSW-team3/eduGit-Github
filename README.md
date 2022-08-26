@@ -576,6 +576,6 @@ Learn about various software testing methodologies and why it is important to te
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
 
-## ➤ License
+## ➤ Original
 
-Licensed under [MIT](https://opensource.org/licenses/MIT).
+Original OpenSW under [Web Skills](https://github.com/andreasbm/web-skills).
