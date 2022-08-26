@@ -17,14 +17,11 @@
 ## ➤ Table of Contents
 
 - [➤ FAQ](#-faq)
-  - [What is Web Skills?](#what-is-web-skills)
+  - [What is Git Skills?](#what-is-git-skills)
   - [How did you choose the skills?](#how-did-you-choose-the-skills)
-  - [How can I support you?](#how-can-i-support-you)
   - [How can I get involved?](#how-can-i-get-involved)
   - [How can I keep track of what skills I know?](#how-can-i-keep-track-of-what-skills-i-know)
-  - [I am overwhelmed! Help me!](#i-am-overwhelmed-help-me)
-  - [Why haven't you included XYZ Technology?](#why-havent-you-included-xyz-technology)
-  - [What does the "experimental" banner mean?](#what-does-the-experimental-banner-mean)
+  - [Why are there no other Git commands?](#why-are-there-no-other-Git-commands)
   - [How can I get in contact with you?](#how-can-i-get-in-contact-with-you)
 - [➤ Fundamentals](#-fundamentals)
   - [HTML](#html)
