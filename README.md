@@ -560,7 +560,7 @@ git remote는 원격 저장소를 관리할 수 있는 Git 명령어입니다.
 
 ### git stash
 
-Learn about various software testing methodologies and why it is important to test your code.
+git stash는 변경사항을 임시로 저장할 수 있도록 도와주는 Git 명령어입니다.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fen.wikipedia.org" alt="Logo" /> Git scm - stash](https://git-scm.com/docs/git-stash)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fsmartbear.com" alt="Logo" /> Git tutorial - stash](https://backlog.com/git-tutorial/kr/reference/stash.html)
