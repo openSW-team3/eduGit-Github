@@ -1,26 +1,53 @@
-## Contributing
+## 기여
 
-You are more than welcome to contribute to `web-skills` in any way you please, including:
+다음을 포함하여 원하는 방식으로 `eduGit-Github`에 기여하실 수 있습니다.
 
-* Updating documentation.
-* Fixing spelling and grammar.
-* Adding tests.
-* Fixing issues and suggesting new features.
-* Blogging, tweeting, and creating tutorials linking to `http://andreasbm.github.io/web-skills`.
-* Reaching out to [@andreasmehlsen](https://twitter.com/andreasmehlsen) on Twitter.
-* Submit an issue or a pull request.
+- 문서 업데이트.
+- 맞춤법 및 문법 수정.
+- git 명령어 추가.
+- issue나 PR제출.
+- 홈페이지 CSS 수정.
 
-If you want to make some changes to `web-skills` you are very welcome to open a PR with the additions. I can't promise that every PR will get merged, but I'll try to respond to everyone.
+`eduGit-Github`에 약간의 변경을 가하고 싶다면 추가로 PR을 열 수 있습니다.
+모든 PR이 병합될 것이라고 약속할 수는 없지만 모든 사람에게 응답하도록 노력하겠습니다.
 
-## Getting Started
+## 시작하기
 
-You can find all of the data in the `data` folder. Here, you'll find that skills are part of areas and areas are part of collections. I'll encourage you to get familiar with the structure of the data before getting your hands dirty.
+'data' 폴더에서 분류해놓은 git 명령어들을 확인할 수 있습니다.
 
-In the `assets` folder you can find all of the images for the skills. The path of the images follows a naming convention based on the collection and area the skill is a part of which is `assets/{{ collection_name }}/{{ area_name }}/{{ skill_name }}.svg`. As an example, the image for the skill "Relational Databases" which is a part of the area "Databases" which is a part of the collection "Databases & Servers" is located at `assets/databases-and-servers/databases/relational-databases.svg`. The design with all assets is located in the `design/design.sketch` file. If you can't open the file you can add the new image to the correct path in the `assets` folder instead. I'll make sure to add it to the sketch file.
+'assets' 폴더에서 git 명령어에 대한 모든 이미지를 찾을 수 있습니다. 이미지의 경로는 컬렉션을 기반으로 하는 명명 규칙을 따르고 기술이 일부인 영역은 `assets/{{ collection_name }}/{{ area_name }}/{{ skill_name }}.svg`입니다. 예를 들어 "데이터베이스 및 서버" 컬렉션의 일부인 "데이터베이스" 영역의 일부인 기술 "관계형 데이터베이스"에 대한 이미지는 `assets/databases-and-servers/databases/relational -databases.svg`. 모든 자산이 포함된 디자인은 'design/design.sketch' 파일에 있습니다. 파일을 열 수 없는 경우 대신 'assets' 폴더의 올바른 경로에 새 이미지를 추가할 수 있습니다. 스케치 파일에 추가하도록 하겠습니다.
 
-To serve the website locally you'll need to run `npm run s`. This will spin up a local dev server and open the browser.
+질문이 있으시면 언제든지 문제를 열거나 현 오픈소스의 Contributors에게 연락 부탁드립니다.
 
-If you have any questions feel free to open an issue or send a PM to [@andreasmehlsen](https://twitter.com/andreasmehlsen) on Twitter.
+## 커밋 메시지 규칙
 
+**`eduGit-Github`에 issue나 PR을 제출하고 싶으신 분들은 다음과 같은 규칙을 지켜주셔야 합니다.**
 
+### issue
 
+1. 발행하고자 하는 이슈를 대괄호로 묶기
+2. 이슈 상황에 알맞은 항목들을 명시
+3. 참고 사항에 적절한 이미지 또는 gif 명시
+4. 형식
+   > **[대문자 영어 이슈명] issue 내용**
+5. 타입 종류
+   > - `BUG` 버그 발생
+   > - `FEAT` 기능 추가
+   > - `FIX` 기능 수정
+   > - `HELP` 도움 요청
+   > - `REFACTOR` 코드 구조 재조정
+   > - `UI/UX` 디자인 변경
+
+### commit과 PR
+
+1. 문장 끝에 `.`를 붙이지 않기
+2. 제목과 내용은 명사화
+3. 이슈 번호를 commit 메시지와 PR 끝에 붙이기
+4. 형식
+   > **[소문자 영어 이슈명] commit/PR 내용 (#이슈 번호)**
+
+### 예시
+
+Issue 발행) [FIX] ~~~~~
+commit) [fix]: ~~~~~ (#n)
+PR) [fix]: ~~~~~~ (#n)
