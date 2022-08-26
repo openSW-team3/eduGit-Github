@@ -38,7 +38,7 @@
   - [git merge](#git-merge)
 - [➤ Log](#-log)
   - [git log](#git-log)
-- [➤ 공유 & 업데이트](#-공유-&-업데이트)
+- [➤ 공유와 업데이트](#-공유와-업데이트)
   - [git fetch](#git-fetch)
   - [git pull](#git-pull)
   - [git push](#git-push)
@@ -170,7 +170,7 @@ git log는 commit 히스토리를 시간의 역순으로 보여줄 때 사용하
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#build-tools)
 
-## ➤ 공유 & 업데이트
+## ➤ 공유와 업데이트
 
 ### git fetch
 
