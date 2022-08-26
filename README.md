@@ -574,8 +574,6 @@ Learn about various software testing methodologies and why it is important to te
 |                                          [YEOLAM](https://github.com/developersung13)                                           |                                          [chanmyeong](https://github.com/chanmyeong)                                           | [Phks098](https://github.com/Phks098)                                                                                    | [You?](https://github.com/openSW-team3/eduGit-Github/blob/main/CONTRIBUTING.md)                                                                  |
 |                                                               🔥                                                                |                                                               🔥                                                               | 🔥                                                                                                                       |
 
-|
-
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
 
 ## ➤ Original
