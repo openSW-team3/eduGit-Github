@@ -517,7 +517,7 @@ git merge는 다른 branch를 현재 checkout된 branch와 합치고 merge 된 �
 
 ### git log
 
-Learn how to store data for your web app.
+git log는 commit 히스토리를 시간의 역순으로 보여줄 때 사용하는 Git 명령어 입니다.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> Git scm - log](https://git-scm.com/docs/git-log)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> Git tutorial - log](https://backlog.com/git-tutorial/kr/reference/basic.html#sec6)
