@@ -38,27 +38,11 @@
   - [git merge](#git-merge)
 - [➤ Log](#-log)
   - [git log](#git-log)
-- [➤ Build tools](#-build-tools)
-  - [Package Managers](#package-managers)
-    - [NPM](#npm)
-    - [Yarn](#yarn)
-  - [Module Bundlers](#module-bundlers)
-    - [Rollup](#rollup)
-    - [Webpack](#webpack)
-    - [Parcel](#parcel)
-    - [Snowpack](#snowpack)
-  - [Linters and formatters](#linters-and-formatters)
-    - [Prettier](#prettier)
-    - [ESLint](#eslint)
-  - [Task Runners](#task-runners)
-    - [NPM Scripts](#npm-scripts)
-  - [Transpilers](#transpilers)
-    - [Babel](#babel)
-    - [Typescript](#typescript)
-  - [CSS Pre-processors](#css-pre-processors)
-    - [SASS](#sass)
-    - [PostCSS](#postcss)
-  - [Node.js](#nodejs)
+- [➤ 공유 & 업데이트](#-공유-업데이트)
+  - [git fetch](#git-fetch)
+  - [git pull](#git-pull)
+  - [git push](#git-push)
+  - [git remote](#git-remote)
 - [➤ Frameworks & Libraries](#-frameworks--libraries)
   - [lit-element](#lit-element)
   - [Vue](#vue)
@@ -397,14 +381,14 @@ git fetch는 원격저장소에 있는 변경 사항들을 로컬 저장소에 �
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.freecodecamp.org" alt="Logo" /> Git scm - fetch](https://git-scm.com/docs/git-fetch)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.javascriptstuff.com" alt="Logo" /> Git tutorial - fetch](https://backlog.com/git-tutorial/kr/stepup/stepup3_2.html)
 
-#### git pull
+### git pull
 
 git pull은 원격 저장소에 있는 프로젝트 내용을 로컬 저장소로 가져올 때 사용하는 Git 명령어입니다.
 
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdocs.npmjs.com" alt="Logo" /> Git scm - pull](https://git-scm.com/docs/git-pull)
 - [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdocs.npmjs.com" alt="Logo" /> Git tutorial - pull](https://backlog.com/git-tutorial/kr/stepup/stepup3_1.html)
 
-#### git push
+### git push
 
 git push는 로컬 브랜치(local branch)를 원격 저장소(remote repository)로 푸시할 때 사용하는 Git 명령어입니다.
 
