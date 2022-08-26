@@ -21,7 +21,7 @@
   - [How did you choose the skills?](#how-did-you-choose-the-skills)
   - [How can I get involved?](#how-can-i-get-involved)
   - [How can I keep track of what skills I know?](#how-can-i-keep-track-of-what-skills-i-know)
-  - [Why are there no other Git commands?](#why-are-there-no-other-Git-commands)
+  - [Why are there no other Git commands?](#why-are-there-no-other-git-commands)
   - [How can I get in contact with you?](#how-can-i-get-in-contact-with-you)
 - [➤ Fundamentals](#-fundamentals)
   - [HTML](#html)
