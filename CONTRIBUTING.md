@@ -21,7 +21,8 @@
 
 > (예시 - "git fetch" 유닛 추가 시 )
 >
-> ![스크린샷 2022-08-27 오전 10 38 58](https://user-images.githubusercontent.com/56868605/187009478-20a7cf61-f3de-4b16-b470-a88cad8ca15a.png) > ![스크린샷 2022-08-27 오전 10 39 41](https://user-images.githubusercontent.com/56868605/187009479-ad0d468c-5b53-4c89-b611-6f0de23de764.png)
+> ![스크린샷 2022-08-27 오전 10 38 58](https://user-images.githubusercontent.com/56868605/187009478-20a7cf61-f3de-4b16-b470-a88cad8ca15a.png)
+> ![스크린샷 2022-08-27 오전 10 39 41](https://user-images.githubusercontent.com/56868605/187009479-ad0d468c-5b53-4c89-b611-6f0de23de764.png)
 
 &nbsp;
 
