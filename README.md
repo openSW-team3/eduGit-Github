@@ -187,6 +187,6 @@ git stash는 변경사항을 임시로 저장할 수 있도록 도와주는 Git 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
 
-## ➤ 오픈소스 원본 출처
+## ➤ 오픈소스 출처
 
 Original OpenSW under [Web Skills](https://github.com/andreasbm/web-skills).
